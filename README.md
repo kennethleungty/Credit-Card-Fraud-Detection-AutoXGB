@@ -1,4 +1,4 @@
-# AutoXGB for Credit Card Fraud Detection
+# Credit Card Fraud Detection with AutoXGB
 
 Link to full writeup on Medium: *Coming Soon*
 
@@ -12,6 +12,10 @@ ___
 
 ## Dataset
 - Simulated credit card transaction data from the research collaboration between Worldline and Machine Learning Group (https://github.com/Fraud-Detection-Handbook/simulated-data-transformed)
+
+
+## Objective
+- Evaluate performance of AutoXGB against the standard XGBoost + RandomizedSearchCV setup
 
 
 ## Steps
