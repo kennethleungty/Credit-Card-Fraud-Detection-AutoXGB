@@ -37,3 +37,7 @@ ___
 - *data/*: Folder containing raw and processed credit card transaction data
 - *output_autoxgb/*: Folder containing AutoXGB model artifacts
 - *models/*: Folder containing saved XGBoost models (in JSON format)
+
+## References
+- https://fraud-detection-handbook.github.io/fraud-detection-handbook/Foreword.html
+- https://github.com/abhishekkrthakur/autoxgb
