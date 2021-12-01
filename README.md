@@ -1,6 +1,6 @@
 # Credit Card Fraud Detection with AutoXGB
 
-Link to full writeup on Medium: *Coming Soon*
+Link to full writeup on Medium: https://towardsdatascience.com/autoxgb-for-financial-fraud-detection-f88f30d4734a
 
 ___
 ## Context
